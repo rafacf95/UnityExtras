@@ -248,6 +248,7 @@ MonoBehaviour:
   speed: 20
   gear: 5
   carbasePrefab: {fileID: 6138136453476268256, guid: b45601d71ed206f44b3ec4728ebbde14, type: 3}
+  speeds: 
 --- !u!4 &764066180
 Transform:
   m_ObjectHideFlags: 0
