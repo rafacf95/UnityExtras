@@ -245,10 +245,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb0f50fc4e0db014b876cb14c2bb9525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 20
+  speed: 10
   gear: 5
   carbasePrefab: {fileID: 6138136453476268256, guid: b45601d71ed206f44b3ec4728ebbde14, type: 3}
-  speeds: 
+  speeds: 0a000000140000001e000000
 --- !u!4 &764066180
 Transform:
   m_ObjectHideFlags: 0
