@@ -8,6 +8,8 @@ public class CarBase : MonoBehaviour
     public int speed = 20;
     public int gear = 5;
     public GameObject carbasePrefab;
+    public List<int> speeds;
+
 
     public int TotalSpeed
     {
@@ -18,5 +20,10 @@ public class CarBase : MonoBehaviour
     {
         var a = Instantiate(carbasePrefab);
         a.transform.position = Vector3.zero;
+    }
+
+    public void SetSpeed()
+    {
+        speed = speeds.GetRandom();
     }
 }
