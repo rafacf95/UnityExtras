@@ -6,6 +6,7 @@
 Este repositório é um projeto Unity criado como parete do meu portifío pessoal. Seu principal objetivo é desmontrar habilidades práticas na costumização do editor da Engine.
 
 Este repositório demonstra design modular, boas práticas de código e soluções práticas para problemas comuns no desenvolvimento com Unity.
+Desenvolvido durante as aulas da plataforma EBAC.
 
 ## Visão Geral
 

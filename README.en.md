@@ -6,6 +6,7 @@
 This repository is a Unity project created as part of my personal portfolio. Its main goal is to demonstrate practical skills in customizing the engine's editor.
 
 This repository demonstrates modular design, good coding practices, and practical solutions to common problems in Unity development.
+Desenvolvido durante as aulas da plataforma EBAC.
 
 ## Overview
 
